@@ -1,0 +1,51 @@
+**Cherry Tree Vets**
+
++ What does the owner want to accomplish with website?
+
+- A platform for patients to be able to get an overview of the practices services and info
+- Easy way of patients getting into contact with the practice
+- Get more people to come and choose cherry tree vets as the primary care facility
+- Provide links to otehr social media content
+- Straight to the point website, with only relevant information and accessible to wide range of patients ( clean design)
+- Clients are coming to expect the same standard of care for their animals as they receive themselves
+
+
++ What does paitents want to see in website?
+
+- Location, contact and opening hours information to be easy to find, imperative in an emergency
+- Detailed view on services in a clear format
+- Friendly website which looks like they go the extra distance for their patients --> testimonials
+- Professinal yet caring
+- Info on the people who are part of the primary card service
+- Emergency/ out of hours criteria and contact
+- How to register and book app.
+
++ About Cherry Tree Vets?
+
++ What makes Cherry Tree Vets different?
+- Modern vet clinic
+- 
+
++ Structure of website?
+
+- Home page --> Landing section, About Us, Testamonial, Quote, Where to find Us
+- Services --> Digital X-Ray, Ultrasound, Dental care, Vaccinations, Neutuering, Weight, Geriatric clinic, Physiotherapy
+- Meet The team --> Rachel, Nicola, Hollie, Jamie ...
+- Contact Form --> Emergency info, contact form
+
++ What are you going to do to make visitors linger at your site? 
+
++ What do you want visitors to do once they are at your site(user workflow)? 
+
++ How are you going to get people to come back to your site?
+
++ Top features you want in the website?
+- Header with email, phone, working hours and social media incons on the right
+- Transparent navbar, on mobile turns as a side bar
+- Nav bg turns white and as user scrolls past hero secion, sticky scroll activates
+- video background
+- Pulsing heartbeat like logo
+- Small whitespace at bottom or space for animal tail to portray the user to scroll down
+- Back to top sign right at the bottom
+
+-

@@ -1,0 +1,21 @@
+{
+  "name": "ctvets",
+  "version": "1.0.0",
+  "description": "vet website",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "shiron manuelpillai",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.18.6",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^3.1.1",
+    "gulp-imagemin": "^3.1.1",
+    "gulp-notify": "^2.2.0",
+    "gulp-plumber": "^1.1.0",
+    "gulp-sass": "^3.1.0",
+    "gulp-uglifyjs": "^0.6.2"
+  }
+}
