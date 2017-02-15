@@ -684,10 +684,9 @@ padding-top: 47%;
 .tab-content{
   display: none;
 
-  img{
-    height: auto;
-  }
 }
+
+
 
 .tab-content__info{
   padding: 5%;
@@ -881,5 +880,13 @@ padding-top: 47%;
 .submit-message{
   flex:1 1 20%;
   background-color: #8bf7bb;
+  color: white;
   padding: 12px 0;
+  transition: 0.3s ease-in;
+
+  &:hover{
+    background-color: darken(#8bf7bb, 30%);
+    transform: translateY(1px);
+    transition: 0.4s all ease;
+  }
 }

@@ -888,4 +888,12 @@ img {
   -ms-flex: 1 1 20%;
   flex: 1 1 20%;
   background-color: #8bf7bb;
-  padding: 12px 0; }
+  color: white;
+  padding: 12px 0;
+  transition: 0.3s ease-in; }
+  .submit-message:hover {
+    background-color: #0fda69;
+    -webkit-transform: translateY(1px);
+    -ms-transform: translateY(1px);
+    transform: translateY(1px);
+    transition: 0.4s all ease; }
